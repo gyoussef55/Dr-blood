@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869854855195",
+    "project_id": "cancer-blood",
+    "storage_bucket": "cancer-blood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869854855195:android:f4fbe3d9cc3e15fa2e38be",
+        "android_client_info": {
+          "package_name": "com.example.cancer_blood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Eqi-TR6d5Am1Fb1QfG3nir5EN6lR85A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
